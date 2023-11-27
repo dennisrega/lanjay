@@ -43,7 +43,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Nasional",ANTV HD 
 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/18
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Indonesia",ANTV HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Nasional",ANTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11703
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
@@ -56,7 +56,7 @@ http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff01776bc7624307ab/56871875ec704e159dc52be1c6bbabc3.png" group-title="TV | Nasional",NET TV D 
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Indonesia",NET TV Auto Resolusi 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Nasional",NET TV Auto Resolusi 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11704 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
@@ -65,7 +65,7 @@ http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="TV | Nasional",RTV D 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Indonesia",RTV HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Nasional",RTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11707    
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
@@ -74,7 +74,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="TV | Nasional",TV ONE HD 
 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/17   
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="TV | Indonesia",TV ONE HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="TV | Nasional",TV ONE HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11702 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -83,7 +83,7 @@ http://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="TV | Nasional",METRO TV HD 
 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/20
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="TV | Indonesia",METRO TV HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="TV | Nasional",METRO TV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11705 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
