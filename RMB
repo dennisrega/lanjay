@@ -1,9 +1,9 @@
 #EXTM3U 
 
-============================================TV | Indonesia======================================
+============================================TV | Nasional======================================
 ================================================================================================
  
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="TV | Indonesia",INDOSIAR HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="TV | Nasional",INDOSIAR HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 #EXTINF:-1 group-title="TV | Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar D 
@@ -135,40 +135,40 @@ http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3753.m3u8
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/aditv.jpg" group-title="TV | Nasional",ADITV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3746.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Indonesia",USEE PRIME Auto Resolusi 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Nasional",USEE PRIME Auto Resolusi 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd  
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Indonesia",USEE PRIME Auto Resolusi 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Nasional",USEE PRIME Auto Resolusi 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd  
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/brtv.jpg" group-title="TV | Indonesia",BADAR TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/brtv.jpg" group-title="TV | Nasional",BADAR TV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3751.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jambitv.jpg" group-title="TV | Indonesia",JAMBI TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jambitv.jpg" group-title="TV | Nasional",JAMBI TV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3750.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/btv.jpg" group-title="TV | Indonesia",BTV BALIKPAPAN 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/btv.jpg" group-title="TV | Nasional",BTV BALIKPAPAN 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3749.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/tatv.jpg" group-title="TV | Indonesia",TATV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/tatv.jpg" group-title="TV | Nasional",TATV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3747.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/simpang5.jpg" group-title="TV | Indonesia",SIMPANG 5 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/simpang5.jpg" group-title="TV | Nasional",SIMPANG 5 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3745.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jitv.jpg" group-title="TV | Indonesia",JITV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jitv.jpg" group-title="TV | Nasional",JITV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3744.m3u8 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/kawanua.jpg" group-title="TV | Lokal",KAWANUA TV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3743.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/padang_tv.jpg" group-title="TV | Indonesia",PADANG TV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/padang_tv.jpg" group-title="TV | Nasional",PADANG TV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3742.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/smtv.jpg" group-title="TV | Indonesia",SMTV 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/smtv.jpg" group-title="TV | Nasional",SMTV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3739.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/saktitv.jpg" group-title="TV | Indonesia",SAKTI TV  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/saktitv.jpg" group-title="TV | Nasional",SAKTI TV  
 Nasional0/02.m3u8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VpWC1fgOSMXrsaXSzZKDi5Kspf0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="TV | Nasional",Magna TV D 
