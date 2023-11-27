@@ -1,0 +1,773 @@
+#EXTM3U 
+
+============================================TV | Indonesia======================================
+================================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="TV | Indonesia",INDOSIAR HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
+#EXTINF:-1 group-title="TV | Nasional" tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar D 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/ http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="TV | Nasional",SCTV HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="TV | Nasional",SCTV D 
+http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="TV | Nasional",RCTI HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="TV | Nasional",MNC TV HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/7
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="TV | Nasional",Trans 7 F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8   
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="TV | Nasional",TRANS 7 HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214 
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV | Nasional",Trans7 (720p) 
+http://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="TV | Nasional",Trans TV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="TV | Nasional",TRANS TV HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/215
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV | Nasional",Trans TV (720p) 
+http://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Nasional",ANTV HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/18
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Indonesia",ANTV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11703
+#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV D 
+http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Nasional",NET TV HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff01776bc7624307ab/56871875ec704e159dc52be1c6bbabc3.png" group-title="TV | Nasional",NET TV D 
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Indonesia",NET TV Auto Resolusi 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11704 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Nasional",RTV HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/22 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729ce4a1343c17/618501484ea94fd7936ec15837fc008e.jpg" group-title="TV | Nasional",RTV D 
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Indonesia",RTV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11707    
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="TV | Nasional",iNEWS HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/8  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="TV | Nasional",TV ONE HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/17   
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="TV | Indonesia",TV ONE HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11702 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6df9359238f/23425607b4944fb9a35c1cc37afd74c1.png" group-title="TV | Nasional",tvOne D 
+http://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="TV | Nasional",METRO TV HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/20
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/metrotv.jpg" group-title="TV | Indonesia",METRO TV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11705 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="TV | Nasional",MetroTV D 
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="TV | Nasional",MetroTV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.jpg" group-title="TV | Nasional",KOMPAS TV HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/21
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/kompastv.jpg" group-title="TV | Nasional",KOMPAS TV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11706
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="TV | Nasional",Kompas TV D 
+http://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729ce2a0d83c16/af9dac66b4464fa7bd45fbcb57bbc605.jpg" group-title="TV | Nasional",Kompas TV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.jpg" group-title="TV | Nasional",CNN INDONESIA 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3432.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6rvCDhyYpMNNBcDhEi4EJgEMiAA=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV | Nasional",Moji F 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="TV | Nasional",Jak tv 
+D http://op-group1-swiftservesd-1.dens.tv/s/s123/01.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/tvri.jpg" group-title="TV | Nasional",TVRI 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3434.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.jpg" group-title="TV | Nasional",CNBC INDONESIA 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3433.m3u8    
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MJm1xD/Tvku-hometv.jpg" group-title="TV | Nasional",TVKU 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3748.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Da7mRGWax861IMydfjkQ78nUlJg=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV | Nasional",Mentari TV Vv 
+http://iptvme.xyz:443/vid/hls.m3u8?id=8237 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Da7mRGWax861IMydfjkQ78nUlJg=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV | Nasional",Mentari TV V 
+https://playlist-coffee.my.id/vidio.php?id=8237 http://my-vidio.mystream.workers.dev/index.m3u8?id=205 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/pktv.jpg" group-title="TV | Nasional",PKTV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3753.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/inspiratv.jpg" group-title="TV | Nasional",INSPIRA TV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/aditv.jpg" group-title="TV | Nasional",ADITV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3746.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Indonesia",USEE PRIME Auto Resolusi 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/usee_prime.jpg" group-title="TV | Indonesia",USEE PRIME Auto Resolusi 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3435.mpd  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/brtv.jpg" group-title="TV | Indonesia",BADAR TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3751.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jambitv.jpg" group-title="TV | Indonesia",JAMBI TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3750.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/btv.jpg" group-title="TV | Indonesia",BTV BALIKPAPAN 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3749.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/tatv.jpg" group-title="TV | Indonesia",TATV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3747.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/simpang5.jpg" group-title="TV | Indonesia",SIMPANG 5 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3745.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/jitv.jpg" group-title="TV | Indonesia",JITV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3744.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/kawanua.jpg" group-title="TV | Lokal",KAWANUA TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3743.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/padang_tv.jpg" group-title="TV | Indonesia",PADANG TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3742.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/smtv.jpg" group-title="TV | Indonesia",SMTV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3739.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/saktitv.jpg" group-title="TV | Indonesia",SAKTI TV  
+Nasional0/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VpWC1fgOSMXrsaXSzZKDi5Kspf0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="TV | Nasional",Magna TV D 
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 http://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg" group-title="TV | Nasional",DAAI TV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg" group-title="TV | Nasional",DAAI TV D 
+http://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729c80f0d63bfc/6ba3b6168efd4610a9533fd62b6b1e92.jpg" group-title="TV | Nasional",BTV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729c80f0d63bfc/6ba3b6168efd4610a9533fd62b6b1e92.jpg" group-title="TV | Nasional",BTV D 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWc8Caj4tL16n6LhuCL2QYVq5-PvtUESo1g&usqp=CAU" group-title="TV | Nasional",Elshinta TV D 
+http://op-group1-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="TV | Nasional",TVRI F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="TV | Nasional",TVRI D 
+http://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6G08Zm/download.jpg" group-title="TV | Nasional",TVRI Sports D 
+http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="TV | Nasional",NUSANTARA TV 
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="TV | Nasional",THE INDONESIAN TV 
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="TV | Nasional",IDX TV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 group-title="TV | Nasional",JTV F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="TV | Nasional",RODJA TV D 
+https://op-group1-swiftservesd-1.dens.tv/s/s14/02.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT7vzPqZ/image.png" group-title="TV | Nasional",GARUDA TV Banten F 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+
+============================================TV | News============================================
+=================================================================================================
+
+#EXTINF:-1 group-title="TV | News",Berita Satu Wold 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/cnbc_indonesia.jpg" group-title="TV | News",CNBC INDONESIA HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3433.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/cnn_indonesia.jpg" group-title="TV | News",CNN INDONESIA HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3432.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/cnn_international.jpg" group-title="TV | News",CNN INT Opt 1 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1321 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/cnn_international.jpg" group-title="TV | News",CNN INT Opt 2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1318 
+#EXTINF:-1 group-title="TV | News",NHK Wolrd 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+ #EXTINF:-1 group-title="TV | News",CNA 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8 
+#EXTINF:-1 group-title="TV | News",CNN 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
+#EXTINF:-1 group-title="TV | News",France24 
+News http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8 
+#EXTINF:-1 group-title="TV | News",BBC News 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
+#EXTINF:-1 group-title="TV | News",Crime Investigation 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
+#EXTINF:-1 group-title="TV | News",Euro News 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="TV | News",EGG NETWORK TV 
+http://210.210.155.37/uq2663/h/h22/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg" group-title="TV | News",CNA 
+http://210.210.155.37/uq2663/h/h29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg" group-title="TV | News",NHK WORLD JAPAN 
+http://210.210.155.37/uq2663/h/h23/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="TV | News",AL JAZEERA ARABIC 
+http://210.210.155.37/qwr9ew/s/s16/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="TV | News",TRT WORLD 
+http://210.210.155.37/uq2663/h/h156/index2.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="TV | News",WION 
+http://210.210.155.37/uq2663/h/h91/index2.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="TV | News",UA 
+http://210.210.155.37/uq2663/h/h101/index2.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="TV | News",AL JAZEERA ENGLISH 
+http://210.210.155.37/qwr9ew/s/s17/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="TV | News",FRANCE 24 
+http://210.210.155.37/qwr9ew/s/s22/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3035 
+
+==============================================TV | Religi=============================
+======================================================================================
+
+#EXTINF:-1 group-title="TV | Religi",TV9 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Religi",Reformed 21 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/6624 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/al_imantv.jpg" group-title="TV | Religi",AL-IMAN TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3985.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/hijrahtv.jpg" group-title="TV | Religi",HIJRAH TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3984.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/naajiyatv.jpg" group-title="TV | Religi",NAAJIYA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3983.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/rasyaadtv.jpg" group-title="TV | Religi",RASYAAD TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3982.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/muadztv.jpg" group-title="TV | Religi",MUADZ TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3981.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/ahsantv.jpg" group-title="TV | Religi",AHSAN TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3980.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/surautv.jpg" group-title="TV | Religi",SURAU TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3979.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/izzahtv.jpg" group-title="TV | Religi",IZZAH TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/4004.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/rodjatv.jpg" group-title="TV | Religi",RODJA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/4002.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/mgitv.jpg" group-title="TV | Religi",MGI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/4001.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/al_furqontv.jpg" group-title="TV | Religi",AL-FURQON TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/4000.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/medstv.jpg" group-title="TV | Religi",MEDS TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3999.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/binbaztv.jpg" group-title="TV | Religi",BIN BAZ TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3998.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/bina_madanitv.jpg" group-title="TV | Religi",BINA MADANI TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3996.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/ashiiltv.jpg" group-title="TV | Religi",ASHIIL TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3978.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/sunnahtv.jpg" group-title="TV | Religi",TV SUNNAH 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3992.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/tadabburtv.jpg" group-title="TV | Religi",TADABBUR TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3991.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/makkahtv.jpg" group-title="TV | Religi",MAKKAH TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3990.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/madinahtv.jpg" group-title="TV | Religi",MADINAH TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3989.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/salamtv.jpg" group-title="TV | Religi",SALAM TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3988.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/niagatv.jpg" group-title="TV | Religi",NIAGA TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3986.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/insantv.jpg" group-title="TV | Religi",INSAN TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/3977.m3u8   
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/religi/rodja.jpg" group-title="TV | Religi",RODJA TV Auto Reso 
+
+==========================================TV | Kids====================================
+=======================================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/horee.jpg" group-title="TV | Kids",Hore Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/live/hometv@226/Wdk8VzyYTG/3693.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/doraemon.jpg" group-title="TV | Kids",DORAEMON 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1984 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/upin_ipin.jpg" group-title="TV | Kids",UPIN IPIN 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1983 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/larva.jpg" group-title="TV | Kids",LARVA 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1982 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/booba.jpg" group-title="TV | Kids",KIDS BOOBA 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1326 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/shaun_the_sheep.jpg" group-title="TV | Kids",SHAUN THE SHEEP 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1325 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/bean.jpg" group-title="TV | Kids",MR. BEAN 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1324 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/masha_bear.jpg" group-title="TV | Kids",MASHA & BEAR 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1323 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/tom_jerry.jpg" group-title="TV | Kids",TOM & JERRY 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1322 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/nick_jr.jpg" group-title="TV | Kids",NICK JR ID 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/4021.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/cartoon_network.jpg" group-title="TV | Kids",CARTOON NETWORK HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/live/hometv@226/Wdk8VzyYTG/3003.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/aniplus.jpg" group-title="TV | Kids",ANIPLUS 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3954 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/dreamworks.jpg" group-title="TV | Kids",DREAMWORS ID 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.190.37:25461/live/hometv@37/Wdk8VzyYTG/1277.m3u8 
+#EXTINF:-1 group-title="TV | Kids;International",Cartoon Network http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="TV | Kids",ANIPLUS 
+http://210.210.155.37/dr9445/h/h02/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="TV | Kids",ANIMAX 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="TV | Kids",MY KIDZ 
+http://210.210.155.37/uq2663/h/h191/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="TV | Kids",TOONZ KIDZ 
+http://210.210.155.37/x6bnqe/s/s14/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="TV | Kids",ABC Kids 
+https://c.mjh.nz/abc-kids.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png" group-title="TV | Kids",AniPlus 
+http://210.210.155.35/dr9445/h/h02/index.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/babyshark.jpg" group-title="TV | Kids",BABY SHARK 
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https" group-title="TV | Kids",SPACETOON 
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/moonbug.jpg" group-title="TV | Kids",MOONBUG 
+https://moonbug-rokuus.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids/horee.jpg" group-title="TV | Kids",Hore 
+http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="TV | Kids",Dens Play 
+http://210.210.155.37/x6bnqe/s/s37/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png" group-title="TV | Kids",DreamworksEBS Kids 
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="TV | Kids;International",HappyKids 
+https://happykids-vizio.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://happykids.tv/img/logo.png" group-title="TV | Kids;International",HappyKids Junior 
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="TV | Kids;International",KBS Kids 
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/640px-Moonbug_Kids.svg.png" group-title="TV | Kids;International",Moonbug Kids 
+https://moonbug-rokuus.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655920070-.png" group-title="TV | Kids",My Kidz 
+http://210.210.155.37/uq2663/h/h191/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Nick_jr_logo_pluto_tv.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/768px-PBS_Kids_logo_%282022%29.svg.png" group-title="TV | Kids",Nick Jr. Pluto TVPBS Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="TV | Kids;International",Spacetoon 
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/572px-ZooMoo_logo.svg.png" group-title="TV | Kids;International",Zoo Moo 
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="hhttps://logos.flamingtext.com/Word-Logos/kids-design-girls-name.webp" group-title="TV | Kids;International",Da Vinci 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
+#EXTINF:-1 tvg-logo="hhttps://logos.flamingtext.com/Word-Logos/kids-design-girls-name.webp" group-title="TV | Kids;International",Bomerang 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+#EXTINF:-1 tvg-logo="hhttps://logos.flamingtext.com/Word-Logos/kids-design-girls-name.webp" group-title="TV | Kids;International",Dreamworks 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Nick_jr_logo_pluto_tv.png" group-title="TV | Kids;International",Nick Jr 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Kids;International",Nickeledeon http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+
+==================================================TV | Movies====================================
+=================================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 1 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3915 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3916 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",BIOSKOP 3 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3917 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.jpg" group-title="TV | Movies",BIOSKOP INDONESIA HD
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/39
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/flik.jpg" group-title="TV | Movies",FLIK HD 
+http://103.150.93.8:25461/hometv@8/Wdk8VzyYTG/23 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/44/Dunia_Sinema_Old.png" group-title="TV | Movies",DUNIA SINEMA TV 
+http://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg" group-title="TV | Movies",ZEE BIOSKOP 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo.jpg" group-title="TV | Movies",HBO HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_sign.jpg" group-title="TV | Movies",HBO SIGN HD 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_hits.jpg" group-title="TV | Movies",HBO HITS HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/16 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_family.jpg" group-title="TV | Movies",HBO FAMILY HD 
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/18 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/cinemax.jpg" group-title="TV | Movies",CINEMAX HD 
+http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/5 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 movies
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="TV | Movies", ID: HBO 
+#http://tvkuonline.my.id:25461/riyad/riyad/412 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="TV | Movies", ID: HBO Family 
+#http://tvkuonline.my.id:25461/riyad/riyad/415 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="TV | Movies", ID: HBO Hits 
+http://tvkuonline.my.id:25461/riyad/riyad/413 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="TV | Movies", ID: HBO Signature 
+http://tvkuonline.my.id:25461/riyad/riyad/414 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="TV | Movies", ID: Cinemax 
+http://tvkuonline.my.id:25461/riyad/riyad/424 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png" group-title="TV | Movies",CITRA Dangdut 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="TV | Movies",CITRA DRAMA 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="TV | Movies",CITRA ENTERTAINMENT 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="TV | Movies",CITRA Muslim 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="TV | Movies",HITS 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="TV | Movies",HITS MOVIES 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="TV | Movies",AXN 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="TV | Movies",ROCK ENTERTAINMENT 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg" group-title="TV | Movies",ROCK ACTION 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="TV | Movies",KIX 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg" group-title="TV | Movies",GEM 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="TV | Movies",K+ 
+http://210.210.155.35/uq2663/h/h08/01.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg" group-title="TV | Movies",TVN 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="TV | Movies",TVN MOVIES 
+http://210.210.155.37/dr9445/h/h21/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg" group-title="TV | Movies",TVN MOVIES 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg" group-title="TV | Movies",CELESTIAL MOVIES 
+http://210.210.155.37/dr9445/h/h14/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="TV | Movies",CCM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8  
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="TV | Movies",THRILL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="TV | Movies",CINEMA WORLD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="TV | Movies",MY CINEMA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="TV | Movies",MY CINEMA ASIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="TV | Movies",CINEMA EUROPE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="TV | Movies",MY FAMILY CHANNEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/800px-Paramount_Global.svg.png" group-title="TV | Movies",Paramount 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="TV | Movies",TV5 Monde 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
+
+==============================================TV | Knowledge====================================
+================================================================================================
+
+#EXTINF:-1 group-title="TV | Knowledge",TLC 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",Animal Planet 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",Glod Rush 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",History 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",LifeTime 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",CGNTV 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge",Discovery Asia 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="TV | Knowledge",Biznet Adventure 
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="TV | Knowledge",Dens Learning & Knowledge 
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="TV | Knowledge;International",Discovery Turbo 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TV | Knowledge;International",Love Nature 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
+#EXTINF:-1https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="TV | Knowledge;International",NASA TV Media 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="TV | Knowledge;International",NASA TV Public 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/t/15/assets/logo-image-file.png" group-title="TV | Knowledge;International",People Are Awesome 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="TV | Knowledge;International",Russia Today Documentary 
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="TV | Knowledge;International",Smithsonian Channel 
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge;International",Nature Escape 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Knowledge;International",Global Treker http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/smithsonian.jpg" group-title="TV | Knowledge",SMITHSONIAN Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3650.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/discovery.jpg" group-title="TV | Knowledge",DISCOVERY CHANNEL 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3001 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/animal_planet.jpg" group-title="TV | Knowledge",ANIMAL PLANET 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/2998 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/natgeo.jpg" group-title="TV | Knowledge",NATIONAL GEOGRAPHIC 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1317 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge/natgeo_wild.jpg" group-title="TV | Knowledge",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 
+http://103.150.197.226:25461/movie/hometv@226NU/Wdk8VzyYTG/4002.m3u8 
+
+=========================================TV | Otomotif====================================
+==========================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/campur/harley_davidson.jpg" group-title="TV | Otomotif",Harley Davidson Factory TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3885.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/campur/motorvision.jpg" group-title="TV | Otomotif",Motorvision TV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3884.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3t0kbq/Dmax-hometv.jpg" group-title="TV | Otomotif",DMAX 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3039 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/campur/motors_tv.jpg" group-title="TV | Otomotif",TV Motor 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3038 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/campur/full_custom_garage2.jpg" group-title="TV | Otomotif",TV Full Custom Garage 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3037 
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/campur/choppertown2.jpg" group-title="TV | Otomotif",CHOPPERTOWN 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3036 
+
+=========================================TV | Music===================================
+======================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/now70s.jpg" group-title="TV | Music",NOW 70s 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3933.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/now80s.jpg" group-title="TV | Music",NOW 80s 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3932.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/now90s.jpg" group-title="TV | Music",NOW 90s 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3931.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/b4u.jpg" group-title="TV | Music",B4U MUSIC 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3897 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/kpop.jpg" group-title="TV | Music",KPOP 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3896.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music/retro_music.jpg" group-title="TV | Music",RETRO MUSIC 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3895.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/mce.jpg" group-title="TV | Movies",MCE HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3927.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",HOME-TV BIOSKOP 3 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3917 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",HOME-TV BIOSKOP 2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3916 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop.jpg" group-title="TV | Movies",HOME-TV BIOSKOP 1 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3915 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/flik.jpg" group-title="TV | Movies",FLIK HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3625 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.jpg" group-title="TV | Movies",BIOSKOP INDONESIA HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3623 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/cinemax.jpg" group-title="TV | Movies",CINEMAX HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_sign.jpg" group-title="TV | Movies",HBO SIGN HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3009 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo.jpg" group-title="TV | Movies",HBO HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3008 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/warner.jpg" group-title="TV | Movies",WARNER HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3005 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/paramount.jpg" group-title="TV | Movies",PARAMOUNT HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3004 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_family.jpg" group-title="TV | Movies",HBO FAMILY HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/18 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo_hits.jpg" group-title="TV | Movies",HBO HITS HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/16
+
+====================================================TV | Lifestyle==========================================
+============================================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/tv5_monde_style.jpg" group-title="TV | Lifestyle",TV5 MONDE Style 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3929.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/qvc_extra.jpg" group-title="TV | Lifestyle",QVC Extra Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3882.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/qvc_style.jpg" group-title="TV | Lifestyle",QVC Style Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3881.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/qvc_beauty.jpg" group-title="TV | Lifestyle",QVC Beauty Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3880.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/qvc_uk.jpg" group-title="TV | Lifestyle",QVC Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3879.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/afn.jpg" group-title="TV | Lifestyle",AFN 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3002 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/tlc.jpg" group-title="TV | Lifestyle",TLC 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3000 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/hgtv.jpg" group-title="TV | Lifestyle",HGTV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/2999 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/ftv_midnight.jpg" group-title="TV | Lifestyle",Fashion TV Midnight 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/72 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle/fashiontv.jpg" group-title="TV | Lifestyle",FASHION TV 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/71
+#EXTINF:-1 group-title="TV | Style",FashionTV 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8 
+
+
+====================================TV | Sports================================================
+===============================================================================================
+
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/1316 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/billiardtv.jpg" group-title="TV | Sports",BILLIARD TV Auto reso
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="TV | Sports",TVRI SPORT HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3883.m3u8 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3912.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xrtdz4/Nbc-golf-hometv.jpg" group-title="TV | Sports",GOLF CHANNEL 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3690 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="TV | Sports",WWE 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3689 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="TV | Sports",MOJI HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="TV | Sports",SuperSport MotorSport 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/47 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/fight/fite.jpg" group-title="TV | Sports",FITE Auto Reso 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3936.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/kbs_world.jpg" group-title="TV | Entertainment",KBS WORLD Auto Reso  
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3923
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3752.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="TV | Sports",NBA TV HD
+Denstv
+KIDS SPOT
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.0.2 (Linux;Android 13; nweggk) VLC/3.0.16 Vetinari LibVLC/3.0.16 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="TV | Sports",SPOTV 1 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8FhSJJ/Spotv2.png" group-title="TV | Sports",SPOTV 2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.0.2 (Linux;Android 13; nweggk) VLC/3.0.16 Vetinari LibVLC/3.0.16 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.moto7.net/imgs/spotv-wsbk-motogp.png" group-title="TV | Sports",SPOTV 2 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="TV | Sports",FIGHT SPORTS http://210.210.155.37/dr9445/h/h05/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="TV | Sports",MOTORVISION http://210.210.155.37/uq2663/h/h09/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="TV | Sports",TVRI SPORT http://210.210.155.37/qwr9ew/s/s107/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="TV | Sports",MOTO RACING http://210.210.155.37/uq2663/h/h223/index.m3u8 
+#EXTINF:-1 group-title="TV | Sports",StingRAY Sports http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Sports",DMAX http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:-1 group-title="TV | Sports",Euro Sport 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Sports",Premier Sport 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+    
+
+============================================TV | Bollywood==============================================
+========================================================================================================
+ 
+#EXTINF:-1 group-title="TV | Bollywood",Sony 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Bollywood",Sony MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8 
+
+===========================================TV | Asia=====================================================
+=========================================================================================================
+ 
+#EXTINF:-1 group-title="TV | Asia",STAR 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",CCTV 4 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV9 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV8 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV7 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV6 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV5 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV4 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV3 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV1 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",ChinaTV2 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch222%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Asia",Airang 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="TV | Asia",CCTV 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8 
+#EXTINF:-1 group-title="TV | Asia",KBS World 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+
+======================================TV | Music================================
+================================================================================
+
+#EXTINF:-1 group-title="TV | Music",MTV 90 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Music",MTV Live 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8 
+
+====================================TV | Entertainment===========================
+=================================================================================
+
+#EXTINF:-1 group-title="TV | Entertainment",HGTV 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8 
+#EXTINF:-1 group-title="TV | Entertainment",FOOD 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3640.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment/kplus.jpg" group-title="TV | Entertainment",K+ 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.150.197.226:25461/live/hometv@226/Wdk8VzyYTG/4024.m3u8 
+
