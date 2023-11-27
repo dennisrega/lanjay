@@ -9,8 +9,9 @@ https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="TV | Nasional",INDOSIAR HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="TV | Nasional",SCTV HD 
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://libretv.my.id/assets/tv-logo/sctv.png", SCTV  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="TV | Nasional",SCTV D 
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8  
@@ -22,9 +23,7 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/7
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685651d7bcc01651f0db0bf0097/d3c2d675a810405ba8f08fc469276954.jpg" group-title="TV | Nasional",Trans 7 F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8   
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/7  
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="TV | Nasional",TRANS 7 HD 
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214 
