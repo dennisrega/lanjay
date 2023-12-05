@@ -68,7 +68,11 @@ http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/22
 http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Nasional",RTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11707    
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11707 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="TV | Nasional",iNEWS HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/14    
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/inews.jpg" group-title="TV | Nasional",iNEWS HD 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/8  
