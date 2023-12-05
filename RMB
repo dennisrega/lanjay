@@ -9,7 +9,7 @@ https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.jpg" group-title="TV | Nasional",INDOSIAR HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://libretv.my.id/assets/tv-logo/sctv.png", SCTV  
+#EXTINF:-1 group-title="TV | Nasional" tvg-logo="http://libretv.my.id/assets/tv-logo/sctv.png", SCTV  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="TV | Nasional", SCTV (D*)
