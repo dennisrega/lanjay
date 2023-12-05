@@ -24,6 +24,10 @@ http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="TV | Nasional",MNC TV HD 
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/13
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/7  
