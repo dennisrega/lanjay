@@ -18,19 +18,18 @@ https://bit.ly/3Sc6EFk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="TV | Nasional",SCTV D 
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="TV | Indonesia",RCTI HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rcti.jpg" group-title="TV | Nasional",RCTI HD 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3365
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="TV | Nasional",MNC TV HD 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3366 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/11 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/mnctv.jpg" group-title="TV | Indonesia",MNC TV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/12  
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/13
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/7  
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/13 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="TV | Nasional",TRANS 7 HD 
 http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214 
