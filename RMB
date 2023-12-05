@@ -29,17 +29,16 @@ http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/12
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/gtv.jpg" group-title="TV | Nasional",GTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/13 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/13  #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="TV | Nasional",TRANS 7 HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg" group-title="TV | Nasional",TRANS 7 HD 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/214 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/7
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="TV | Nasional",Trans7 (720p) 
 http://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685651d7bcc01651f0b6d210096/1965733f57cc4d10a8466d39ce0a1ec6.jpg" group-title="TV | Nasional",Trans TV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="TV | Indonesia",TRANS TV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/transtv.jpg" group-title="TV | Nasional",TRANS TV HD 
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/215
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/8 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV | Nasional",Trans TV (720p) 
 http://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV F 
