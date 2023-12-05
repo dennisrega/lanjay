@@ -42,27 +42,23 @@ http://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
 http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/8 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="TV | Nasional",Trans TV (720p) 
 http://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8  
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Nasional",ANTV HD 
-http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/18
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/antv.jpg" group-title="TV | Nasional",ANTV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11703
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV D 
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8  
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Indonesia",NET TV HD 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
+http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/17
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Nasional",NET TV HD 
 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff01776bc7624307ab/56871875ec704e159dc52be1c6bbabc3.png" group-title="TV | Nasional",NET TV D 
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Nasional",NET TV Auto Resolusi 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11704 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/rtv.jpg" group-title="TV | Nasional",RTV HD 
 http://103.150.190.37:25461/hometv@37/Wdk8VzyYTG/22 
