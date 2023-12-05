@@ -103,9 +103,6 @@ http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3432.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6rvCDhyYpMNNBcDhEi4EJgEMiAA=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV | Nasional",Moji F 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6rvCDhyYpMNNBcDhEi4EJgEMiAA=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="TV | Nasional",Moji F 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cd58bce3c14/4dea9ac01b884988aeaa63e0805c6b3d.jpg" group-title="TV | Nasional",Jak tv 
 D http://op-group1-swiftservesd-1.dens.tv/s/s123/01.m3u8 
@@ -119,15 +116,6 @@ http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3433.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1MJm1xD/Tvku-hometv.jpg" group-title="TV | Nasional",TVKU 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3748.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Da7mRGWax861IMydfjkQ78nUlJg=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV | Nasional",Mentari TV Vv 
-http://iptvme.xyz:443/vid/hls.m3u8?id=8237 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Da7mRGWax861IMydfjkQ78nUlJg=/372x211/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="TV | Nasional",Mentari TV V 
-https://playlist-coffee.my.id/vidio.php?id=8237 http://my-vidio.mystream.workers.dev/index.m3u8?id=205 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/pktv.jpg" group-title="TV | Nasional",PKTV 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
-http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3753.m3u8 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/inspiratv.jpg" group-title="TV | Nasional",INSPIRA TV
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/aditv.jpg" group-title="TV | Nasional",ADITV 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
@@ -166,32 +154,16 @@ http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3742.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.150.197.226:25461/movie/roni@226/Wdk8VzyYTG/3739.m3u8 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah/saktitv.jpg" group-title="TV | Nasional",SAKTI TV  
-Nasional0/02.m3u8 
+Nasional0/02.m3u8  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VpWC1fgOSMXrsaXSzZKDi5Kspf0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="TV | Nasional",Magna TV D 
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8 http://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg" group-title="TV | Nasional",DAAI TV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729cbde4783c06/a3c4bb94f6074815994eedaf7c8f7cfe.jpg" group-title="TV | Nasional",DAAI TV D 
-http://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729c80f0d63bfc/6ba3b6168efd4610a9533fd62b6b1e92.jpg" group-title="TV | Nasional",BTV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68572841ba301729c80f0d63bfc/6ba3b6168efd4610a9533fd62b6b1e92.jpg" group-title="TV | Nasional",BTV D 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWc8Caj4tL16n6LhuCL2QYVq5-PvtUESo1g&usqp=CAU" group-title="TV | Nasional",Elshinta TV D 
-http://op-group1-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="TV | Nasional",TVRI F 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68570f25e2e01716841059b3e25/b21aeb6f2c1d4bf6a3a47c5094080666.png" group-title="TV | Nasional",TVRI D 
-http://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R6G08Zm/download.jpg" group-title="TV | Nasional",TVRI Sports D 
 http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8 
@@ -200,13 +172,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 group-title="TV | Nasional",THE INDONESIAN TV 
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV | Nasional",IDX TV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="TV | Nasional",JTV F 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="TV | Nasional",RODJA TV D 
 https://op-group1-swiftservesd-1.dens.tv/s/s14/02.m3u8 
