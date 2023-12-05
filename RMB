@@ -49,7 +49,7 @@ http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cd6e9c5992395/c75ed4da43234d67b6b713af36b752c6.png" group-title="TV | Nasional",ANTV D 
 http://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8  
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Indonesia",NET TV HD 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/nettv.jpg" group-title="TV | Nasional",NET TV HD 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2 
 http://103.127.209.247:8080/nvc247@home01/Wdk8VzyYTG/17
